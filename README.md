@@ -13,5 +13,7 @@ This project involves analyzing a dataset related to Amazon products, which cont
 ### Data Source 
 - [Click here](https://www.kaggle.com/mohammedalsubaie)
 ### Data Cleaning / Preparation
+- 127 duplicates were found and removed.
+  
 ### Data Analysis
 ### Results/Findings
