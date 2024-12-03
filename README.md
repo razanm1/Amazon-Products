@@ -14,6 +14,8 @@ This project involves analyzing a dataset related to Amazon products, which cont
 - [Click here](https://www.kaggle.com/mohammedalsubaie)
 ### Data Cleaning / Preparation
 - 127 duplicates were found and removed.
+- Replaces the 'K' with '000'.
+- 
   
 ### Data Analysis
 ### Results/Findings
