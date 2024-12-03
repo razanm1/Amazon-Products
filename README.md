@@ -1,4 +1,4 @@
-# Amazon Products
+# Data Analysis of Amazon Products
 
 ![download](https://github.com/user-attachments/assets/8fc29671-d89f-4eb9-bfba-d50ebb232a22)
 
