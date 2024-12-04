@@ -23,4 +23,27 @@ This project involves analyzing a dataset related to Amazon products, which cont
   ![-](https://github.com/user-attachments/assets/c41a0708-541e-4553-8420-dc970e0d51fa)
 
 ### Data Analysis
+
+
+
+
+
+https://github.com/user-attachments/assets/b9b97f64-a739-4e93-be1a-766d6c9d21f7
+
+
+
+
 ### Results/Findings
+
+- Number of brands: 32
+- Total number of products: 938 products
+- Number of products with a perfect rating (5 stars): 28 products
+- Number of products with a 4.5-star rating: 162 products
+- Number of favorite products: 6 products
+- Total revenue: 7 million
+- Number of brands Last Month: 30 brands
+- Total number of products Last Month: 837 products
+- Number of products with a perfect rating (5 stars): 10 products
+- Number of products with a 4.5-star rating: 151 products
+- Number of favorite products: 6 products
+
