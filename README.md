@@ -7,7 +7,7 @@ This project aims to analyze a dataset related to Amazon products, which contain
 
 
 ### Tools 
-- Python - Data Anaysis
+- Python - Using pickle,matplotlib.pyplot, pandas
 - Excel - cleaning data
 - Power Bi - creatig reports
 
