@@ -3,7 +3,8 @@
 ![download](https://github.com/user-attachments/assets/8fc29671-d89f-4eb9-bfba-d50ebb232a22)
 
 ### Project Review 
-This project involves analyzing a dataset related to Amazon products, which contains key information about each product, such as the ASIN number, title, price, ratings, reviews, best-selling products, and other sales-related data such as Amazon Prime shipping and Amazon's Choice. The goal of this analysis is to extract valuable insights from the data that can help in making strategic decisions for products on Amazon.
+This project aims to analyze a dataset related to Amazon products, which contains key information about each product, such as the ASIN number, title, price, list price, ratings, reviews, best-selling status, and other sales-related data such as Amazon Prime shipping and Amazon's Choice. The goal of this analysis is to extract valuable insights from the data to assist in making strategic decisions regarding products on Amazon. The available data includes: ASIN, title, price, list price, rating, number of reviews, sales in the past month, whether the product is a bestseller, whether it is eligible for Amazon Prime shipping, if it is Amazon's Choice, whether it has sustainability features, the number of available offers, the type of Amazon's Choice, brand, and delivery dates including the fastest delivery options.
+
 
 ### Tools 
 - Python - Data Anaysis
@@ -35,15 +36,13 @@ https://github.com/user-attachments/assets/b9b97f64-a739-4e93-be1a-766d6c9d21f7
 
 ### Results/Findings
 
-- Number of brands: 32
-- Total number of products: 938 products
-- Number of products with a perfect rating (5 stars): 28 products
-- Number of products with a 4.5-star rating: 162 products
-- Number of favorite products: 6 products
-- Total revenue: 7 million
-- Number of brands Last Month: 30 brands
-- Total number of products Last Month: 837 products
-- Number of products with a perfect rating (5 stars): 10 products
-- Number of products with a 4.5-star rating: 151 products
-- Number of favorite products: 6 products
+- Brand Variety: There are 32 brands represented in the dataset, indicating a diverse range of sellers and product offerings. However, the number of brands decreased slightly from 32 to 30 in the last month.
+
+- Product Portfolio: The total number of products increased from 837 to 938 in the last month, showing a positive trend in product variety and availability.
+
+- Product Ratings: The number of products with a perfect 5-star rating is relatively low, with only 28 products achieving this rating. However, there is a substantial number of products with a 4.5-star rating (162 products), which suggests that a significant portion of products perform well in terms of customer satisfaction.
+
+- Customer Preferences: The number of favorite products has remained consistent at 6, indicating that certain products have become particularly popular or are highly recommended by customers.
+
+- Revenue Insights: The total revenue of 7 million indicates that the analyzed products are performing well in terms of sales, suggesting strong demand and profitability.
 
