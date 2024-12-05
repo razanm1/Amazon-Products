@@ -8,7 +8,7 @@ This project aims to analyze a dataset related to Amazon products, which contain
 
 ### Tools 
 - Python - Data Anaysis
-- Excel - cleaning dat
+- Excel - cleaning data
 - Power Bi - creatig reports
 
 ### Data Source 
@@ -23,14 +23,18 @@ This project aims to analyze a dataset related to Amazon products, which contain
 
   ![-](https://github.com/user-attachments/assets/c41a0708-541e-4553-8420-dc970e0d51fa)
 
-### Data Analysis
+### Python Code
+![fafbdaa9-6150-433e-9009-11774a3918a7](https://github.com/user-attachments/assets/f043e388-dce8-4d05-9c66-6c55110e7749)
+![e28daffd-c4fa-4ebf-be11-2076ec4e606d](https://github.com/user-attachments/assets/e4b08b6a-d7e0-4cc0-b2ce-8de6c087fde8)
+
+
+### Data visualization
 
 
 
 
 
 https://github.com/user-attachments/assets/b9b97f64-a739-4e93-be1a-766d6c9d21f7
-
 
 
 
@@ -45,4 +49,5 @@ https://github.com/user-attachments/assets/b9b97f64-a739-4e93-be1a-766d6c9d21f7
 - Customer Preferences: The number of favorite products has remained consistent at 6, indicating that certain products have become particularly popular or are highly recommended by customers.
 
 - Revenue Insights: The total revenue of 7 million indicates that the analyzed products are performing well in terms of sales, suggesting strong demand and profitability.
+
 
