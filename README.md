@@ -14,9 +14,9 @@ This project aims to analyze a dataset related to Amazon products, which contain
 ### Data Source 
 - [Click here](https://www.kaggle.com/mohammedalsubaie)
 ### Data Cleaning / Preparation
-- 127 duplicates were found and removed.
-- Replaces the 'K' with '000'.
-- Standardizing Dates.
+- 127 duplicates were found and removed in EXCEL AND PYTHON 
+- I replaced the 'K' in  sold_past_month with '000' to convert shorthand values (like 5K) into their full numeric form (5000) in EXCEL.
+- Standardizing Dates in EXCEL.
 - Handling Missing Data.
 - Setting up relationships in Power BI involves creating a star schema by establishing connections between the Fact Table and the Dimension Tables.
 
